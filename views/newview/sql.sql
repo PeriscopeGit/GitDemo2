@@ -1,2 +1,2 @@
--- changed from console
-Select 2
+-- changed from product
+Select 3
